@@ -1,6 +1,6 @@
 # Bem vindo!
 
-<img width="1000" height="400" src="">
+<img width="100%" height="400" src="">
  
 
 ## Eu sou Jônatas, Deixe-me falar um pouco sobre mim :computer:
