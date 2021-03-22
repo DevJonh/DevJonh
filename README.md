@@ -1,4 +1,4 @@
-<img width="100%" height="400" src="">
+<img width="100%" height="300" src="">
 
 <h2>:computer: Hey Peoples, I'm Jonatas :v: </h2>
  
