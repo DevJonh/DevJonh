@@ -26,4 +26,4 @@
 </a>
 </p>
 <br />
-<h3 align='center'>**See you Later** 🖐🏾</h3>
+<h3 align='center'>See you Later 🖐🏾</h3>
