@@ -1,4 +1,4 @@
-<img width="100%" height="380" src="https://firebasestorage.googleapis.com/v0/b/pokemon-competi.appspot.com/o/2c24bf45-12bb-4a5c-9e76-b4adee7d8c08.jfif?alt=media&token=cdb64d7f-3a0a-419e-af41-293357187710">
+<img width="100%" height="380" src="https://firebasestorage.googleapis.com/v0/b/pokemon-competi.appspot.com/o/WhatsApp%20Image%202021-03-22%20at%207.56.56%20PM%20(1).jpeg?alt=media&token=04edd628-174a-4965-9176-ec2cf6a3bae4">
 
 <h2>:computer: Hey Peoples, I'm Jonatas :v: </h2>
  
