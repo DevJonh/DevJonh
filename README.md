@@ -1,4 +1,4 @@
-<img width="100%" height="380" src="https://scontent.fssa15-1.fna.fbcdn.net/v/t1.0-9/164064890_4009044319115696_444105966961285080_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHCGhQBfBgDb5qSIH0N1ku7qg3ge8vYZgqqDeB7y9hmCvM5rzx3SDhbZ7RuB95wbJKeTl_9cBNT6UmsJipa-f2r&_nc_ohc=EQ7LSaroKfMAX-nqLgQ&_nc_ht=scontent.fssa15-1.fna&oh=ddc12336f64954ec48416e4674f79f06&oe=6081FB24">
+<img width="100%" height="380" src="https://firebasestorage.googleapis.com/v0/b/pokemon-competi.appspot.com/o/2c24bf45-12bb-4a5c-9e76-b4adee7d8c08.jfif?alt=media&token=cdb64d7f-3a0a-419e-af41-293357187710">
 
 <h2>:computer: Hey Peoples, I'm Jonatas :v: </h2>
  
